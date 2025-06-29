@@ -1,0 +1,21 @@
+/* TEAM */
+Developer: ENIAC Simulator Team
+Contact: contact [at] eniacsimulator.netlify.app
+Twitter: @eniacsimulator
+From: Worldwide
+
+/* THANKS */
+ENIAC Historical Documentation
+University of Pennsylvania Archives
+Computer History Museum
+Open Source Community
+
+/* SITE */
+Last update: 2025/01/27
+Language: English, Spanish, French, German
+Doctype: HTML5
+IDE: Visual Studio Code
+Technologies: React, TypeScript, Tailwind CSS, Vite
+Standards: HTML5, CSS3, ES2020+
+Components: Lucide React Icons
+Accessibility: WCAG 2.1 AA Compliant
